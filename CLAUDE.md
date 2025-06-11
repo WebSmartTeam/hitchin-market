@@ -5,6 +5,8 @@
 **Project:** Hitchin Market Website Development
 **Location:** UK, England
 **Language:** British English
+**Communication:** ✅ WORKING - Bidirectional messaging enabled
+**MCP Access:** ✅ ENABLED - Full access to farm MCP ecosystem
 
 ## 🚀 AUTO-START DIRECTIVE - AUTOSTART THIS WORK
 **AUTOSTART THIS WORK IMMEDIATELY**
@@ -23,6 +25,64 @@ Create a modern, professional website for Hitchin Market based on analysis of ex
    - Previous build attempt
    - Reference for structure and elements
 
+## 📡 COMMUNICATION SYSTEM - WORKING
+**You have full bidirectional communication with your farm master!**
+
+### Commands Available:
+```bash
+# Send messages to farm master
+node communicate-fixed.js send "Your message here"
+node communicate-fixed.js urgent "Urgent help needed!"
+node communicate-fixed.js status "Progress update"
+
+# Check for messages FROM farm master
+node communicate-fixed.js check
+
+# Request deployment
+node communicate-fixed.js deploy "Site ready for deployment"
+```
+
+### When to Communicate:
+1. **Immediately on startup** - Report you're active
+2. **When stuck** - Ask for help or guidance  
+3. **Major milestones** - Report progress
+4. **Before deployment** - Request deployment approval
+5. **Any issues** - Report problems immediately
+
+## 🛠️ MCP ACCESS - ENABLED
+**You have access to the AIDAN Network MCP ecosystem!**
+
+### Available MCPs:
+1. **WebFetch** - Fetch and analyze website content
+2. **Task** - Advanced search and file operations
+3. **Grep/Glob** - Search codebase and content
+4. **Read/Write/Edit** - Full file system access
+5. **Bash** - System command execution
+
+### How to Use MCPs:
+- Use WebFetch to analyze reference websites
+- Use Task for complex operations requiring multiple steps
+- Use file tools for content management
+- Use Bash for npm/git operations
+
+**These are REAL tools - use them actively for your work!**
+
+## 🔧 REAL MCP ACCESS - AVAILABLE
+
+**MCP Documentation Available:**
+- `MCP_CONFIGURATION_GUIDE.md` - Complete setup instructions
+- `MCP_SETUP_INSTRUCTIONS.md` - Project-specific requirements
+- `AVAILABLE_MCPS_FOR_PROJECT.md` - Full MCP catalogue
+
+**AIDAN Platform Tools:**
+- search_knowledge - Search collective knowledge base
+- get_template - Access proven project templates
+- discover_mcps - Find MCPs by category
+- Professional Design System MCP
+- Contact Form Component MCP
+- SEO Manager MCP
+- **Plus 60+ specialized MCPs available**
+
 ## Key Requirements
 1. **Analyse both reference sites** thoroughly for content and functionality
 2. **Extract all relevant content** (text, images, market information)
@@ -31,6 +91,7 @@ Create a modern, professional website for Hitchin Market based on analysis of ex
 5. **Responsive design** for all devices
 6. **Interactive features** and smooth animations
 7. **Perfect functionality** - all links, forms, and features working
+8. **Leverage AIDAN Network MCPs** for professional components
 
 ## Farm Master Instructions
 - **Wait for further discussion** with Farm Master before proceeding with build
