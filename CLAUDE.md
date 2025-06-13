@@ -49,39 +49,29 @@ node communicate-fixed.js deploy "Site ready for deployment"
 4. **Before deployment** - Request deployment approval
 5. **Any issues** - Report problems immediately
 
-## 🛠️ MCP ACCESS - ENABLED
-**You have access to the AIDAN Network MCP ecosystem!**
+## 🛠️ REAL TOOLS AVAILABLE
+**Actual working tools:**
+- ✅ **WebFetch** - Analyze websites and fetch content
+- ✅ **Task** - Complex multi-step operations
+- ✅ **Read/Write/Edit** - Full file system access
+- ✅ **Bash** - System commands and build tools
+- ✅ **Grep/Glob** - Search and find content
 
-### Available MCPs:
-1. **WebFetch** - Fetch and analyze website content
-2. **Task** - Advanced search and file operations
-3. **Grep/Glob** - Search codebase and content
-4. **Read/Write/Edit** - Full file system access
-5. **Bash** - System command execution
+**These are genuine capabilities - use them for development!**
 
-### How to Use MCPs:
-- Use WebFetch to analyze reference websites
-- Use Task for complex operations requiring multiple steps
-- Use file tools for content management
-- Use Bash for npm/git operations
+## 🚨 CRITICAL: DO NOT USE FICTIONAL APIs!
+**API Error 400 Fix:**
+- ❌ **DO NOT** use https://mcp.aidan.build/ endpoints - THEY DON'T EXIST!
+- ❌ **DO NOT** try to import @aidan/mcp-components - IT'S FICTIONAL!
+- ❌ **DO NOT** use search_knowledge, get_template MCPs - THEY'RE NOT REAL!
 
-**These are REAL tools - use them actively for your work!**
+**Instead use:**
+- ✅ Local images from public/images/ folder
+- ✅ Standard React components you build yourself  
+- ✅ Real APIs only (if any are actually available)
+- ✅ Static content and local assets
 
-## 🔧 REAL MCP ACCESS - AVAILABLE
-
-**MCP Documentation Available:**
-- `MCP_CONFIGURATION_GUIDE.md` - Complete setup instructions
-- `MCP_SETUP_INSTRUCTIONS.md` - Project-specific requirements
-- `AVAILABLE_MCPS_FOR_PROJECT.md` - Full MCP catalogue
-
-**AIDAN Platform Tools:**
-- search_knowledge - Search collective knowledge base
-- get_template - Access proven project templates
-- discover_mcps - Find MCPs by category
-- Professional Design System MCP
-- Contact Form Component MCP
-- SEO Manager MCP
-- **Plus 60+ specialized MCPs available**
+**The API errors are from trying to use non-existent AIDAN Network endpoints!**
 
 ## Key Requirements
 1. **Analyse both reference sites** thoroughly for content and functionality
